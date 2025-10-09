@@ -29,4 +29,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 * [<b>Animista</b>](https://animista.net/) - To use Interactive animations
 
 
-Please contact me at paliwalm4321@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
+Please contact me at satviksangamkar@gmail.com if you have any feedback for the website. :star: Star it, if you like it!

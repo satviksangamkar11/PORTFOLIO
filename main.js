@@ -10,6 +10,6 @@ const sections = document.querySelectorAll('section'); const navLi = document.qu
     mobilenavLi.forEach(li => { li.classList.remove('activeThismobiletab'); if (li.classList.contains(current)) { li.classList.add('activeThismobiletab') } })
     navLi.forEach(li => { li.classList.remove('activeThistab'); if (li.classList.contains(current)) { li.classList.add('activeThistab') } })
 })
-console.log('%c Developed by Mayank Paliwal', 'background-image: linear-gradient(90deg,#8000ff,#6bc5f8); color: white;font-weight:900;font-size:1rem; padding:20px;'); let mybutton = document.getElementById("backtotopbutton"); window.onscroll = function () { scrollFunction() }; function scrollFunction() { if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) { mybutton.style.display = "block" } else { mybutton.style.display = "none" } }
+console.log('%c Developed by Satvik Sangamkar', 'background-image: linear-gradient(90deg,#8000ff,#6bc5f8); color: white;font-weight:900;font-size:1rem; padding:20px;'); let mybutton = document.getElementById("backtotopbutton"); window.onscroll = function () { scrollFunction() }; function scrollFunction() { if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) { mybutton.style.display = "block" } else { mybutton.style.display = "none" } }
 function scrolltoTopfunction() { document.body.scrollTop = 0; document.documentElement.scrollTop = 0 }
 document.addEventListener("contextmenu", function (e) { if (e.target.nodeName === "IMG") { e.preventDefault() } }, !1);
