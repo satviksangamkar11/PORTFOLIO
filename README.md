@@ -1,8 +1,6 @@
-# <a href="https://codewithmayank-py.github.io/" target="_blank">My Portfolio</a>
-<p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://codewithmayank-py.github.io/)
-[![Author](https://img.shields.io/badge/Author-Mayank%20Paliwal-purple.svg)](https://github.com/CodeWithMayank-Py)
+
 <a href="https://github.com/CodeWithMayank-Py/MayankPaliwal.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
 :star: Star me on GitHub — it helps!
